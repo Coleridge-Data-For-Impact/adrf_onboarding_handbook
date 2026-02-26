@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat /c/Users/corey/Github/adrf_onboarding_handbook/.github/workflows/*.yml)",
+      "Bash(git -C /c/Users/corey/Github/adrf_onboarding_handbook remote get-url origin)"
+    ]
+  }
+}
