@@ -8,8 +8,8 @@ This section outlines where to find the data you are approved to access within t
 
 ## Data Storage Overview
 The ADRF uses two primary types of storage:
-- **Unstructured Data**: Files such as CSVs and Stata files are stored in the read-only G: drive.
-- **Structured Data**: Relational data, housed in AWS Redshift, is accessible via DBeaver or by connecting through a statistical package (like R or Python).
+- **File-based data**: Files such as CSVs and Stata files are stored in the read-only G: drive.
+- **Relational (database) data**: Relational data, housed in AWS Redshift, is accessible via DBeaver or by connecting through a statistical package (like R or Python).
 
 **Important Note on External Data and Code**: Importing external data and code into the ADRF is strictly restricted to Coleridge staff to maintain security and prevent unauthorized access or data leaks. There is no direct method for users to upload files from their personal systems. For assistance with importing code or data, please contact support@coleridge.us.
 For detailed instructions on querying and accessing data, please refer to the ADRF User Guide located in the secure data enclave.

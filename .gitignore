@@ -26,3 +26,5 @@ site_libs/
 .Rproj.user/
 .Rhistory
 .RData
+.serena/
+.claude/

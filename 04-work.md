@@ -20,6 +20,7 @@ You will find your personal folder in the U: drive. The folder name will include
 
 ### The U: Drive and the P: Drive
 - The **U: drive** is your user drive; it’s where you will store any files you are working on. Only the user will have access to the U: drive. For example, if user A wants to share information with user B who is on the same project, user A will need to save files to a P: drive folder and not folders in their U: drive since user B will not be able to access user A’s U: drive.
+
 - The **P: drive** is the project drive, which will be used to house project-specific folders. Thus, you and other collaborators on the same project will be able to save files to project drive folders.
 
 ### Other Modifications
