@@ -8,8 +8,6 @@ You will receive an email invitation to activate your account.
 - The email will come from <http://okta.com>, so please make sure that it doesn’t get caught in your email spam filter. 
 - Follow the steps outlined in the email to set up your password and your multi-factor authentication preferences.
 
-> Click on the link below to watch a video walking through the steps. [need video link]
-
 ## Step 2: Log into PASS Portal
 
 After activating your account, you will be logged in to the ADRF Applications page. 
