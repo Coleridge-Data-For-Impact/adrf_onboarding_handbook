@@ -1,6 +1,6 @@
 # 4. Working in the ADRF
 
-This section provides a high level overview of how to work within the ADRF.
+This section provides an overview of how to work within the ADRF.
 
 > 💡 You can find detailed information as well as video tutorials on how to work in the ADRF in the  **ADRF User Guide**, which is available to ADRF users in Secure PASS in their project workspaces.
 
