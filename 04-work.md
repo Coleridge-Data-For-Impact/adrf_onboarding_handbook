@@ -41,5 +41,7 @@ Key analytical software includes:
 # Support
 
 **Need help?**
+
 - Email: support@coleridge.us
+
 - Hours: Monday-Friday, 9 AM - 5 PM ET

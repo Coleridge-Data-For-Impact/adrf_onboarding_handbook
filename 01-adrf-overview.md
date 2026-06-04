@@ -37,5 +37,7 @@ The Coleridge PASS web-based application is the central console for managing use
 # Support
 
 **Need help?**
+
 - Email: support@coleridge.us
+
 - Hours: Monday-Friday, 9 AM - 5 PM ET

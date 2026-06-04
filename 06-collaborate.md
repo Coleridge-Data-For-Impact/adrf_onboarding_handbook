@@ -21,5 +21,7 @@ The information contained in the ADRF is restricted to reside only in the ADRF f
 # Support
 
 **Need help?**
+
 - Email: support@coleridge.us
+
 - Hours: Monday-Friday, 9 AM - 5 PM ET
