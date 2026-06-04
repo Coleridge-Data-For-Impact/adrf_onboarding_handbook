@@ -9,6 +9,7 @@ This section outlines where to find the data you are approved to access within t
 ## Data Storage Overview
 
 The ADRF uses two primary types of storage:
+
 - **File-based data**: Files such as CSVs and Stata files are stored in the read-only G: drive.
 
 - **Relational (database) data**: Relational data, housed in AWS Redshift, is accessible via DBeaver or by connecting through a statistical package (like R or Python).
@@ -22,5 +23,7 @@ For detailed instructions on querying and accessing data, please refer to the AD
 # Support
 
 **Need help?**
+
 - Email: support@coleridge.us
+
 - Hours: Monday-Friday, 9 AM - 5 PM ET
