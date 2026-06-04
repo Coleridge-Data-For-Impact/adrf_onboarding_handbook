@@ -8,43 +8,21 @@ book:
   date-format: "[Last Updated on] DD MMMM, YYYY"
   chapters:
     - index.md
-    - 01-intro.md
-    - 02-access.md
+    - 01-adrf-overview.md
+    - 02-logging-in.md
     - 03-onboarding.md
-    - 04-access-and-use.md
+    - 04-work.md
     - 05-access-data.md
-    - 06-where-to-work.md
-    - 07-collaborate.md
-    - 08-export.md
-    - 09-dos-and-donts.md
-    - 10-packages.md
-    - 11-querying-guide.md
-    - 12-pass_reset_password.md
-    - 13-faq.md
+    - 06-collaborate.md
+    - 07-export.md
+    - 08-dos-and-donts.md
+    - 09-faq.md
 
-  # ⬇️ This is the global chapter sidebar
   sidebar:
-    style: docked          # or "floating", but docked feels more “always there”
-    #background: "#4c2a9d"
+    style: docked
     search: true
-    collapse-level: 1      # show all top-level items expanded
-    pinned: true           # keep sidebar accessible on narrow screens
-    # (optional) explicitly list contents; by default it uses chapters anyway
-    contents:
-      - index.md
-      - 01-intro.md
-      - 02-access.md
-      - 03-onboarding.md
-      - 04-access-and-use.md
-      - 05-access-data.md
-      - 06-where-to-work.md
-      - 07-collaborate.md
-      - 08-export.md
-      - 09-dos-and-donts.md
-      - 10-packages.md
-      - 11-querying-guide.md
-      - 12-pass_reset_password.md
-      - 13-faq.md
+    collapse-level: 1
+    pinned: true
 
   search:
     location: sidebar
@@ -59,7 +37,7 @@ format:
     embed-resources: false
     toc: true          # optional; this is the per-page “On this page” headings
     df-print: paged
-    number-sections: false 
+    number-sections: false
     number-depth: 1
 
 editor: visual
