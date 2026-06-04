@@ -2,9 +2,9 @@
     <img src="images/coleridge-logo2.png" alt="Coleridge Logo">
 </p>
 
-# ADRF User Guide
+# ADRF Onboarding Handbook
 
-A detailed guide to help users navigate and use the Coleridge Initiative's Administrative Data Research Facility (ADRF) effectively.
+A detailed guide to help users onboard and get started using Coleridge's **Administrative Data Research Facility** (ADRF) effectively.
 
 ## Navigation
 
@@ -13,16 +13,22 @@ A detailed guide to help users navigate and use the Coleridge Initiative's Admin
 
 ## Table of Contents
 
-1. [Introduction](01-intro.md)
-2. [Obtaining ADRF Access](02-access.md)
-3. [Onboarding Modules and Security Training](03-onboarding.md)
-4. [How to Access and Use Your Project Workspace](04-access-and-use.md)
+1. [ADRF Overview](01-adrf-overview.md)
+2. [Logging into the ADRF](02-loggin-in.md)
+3. [Step-by-Step: How to Get into the ADRF for the first time](03-onboarding.md)
+4. [Working in the ADRF](04-work.md)
 5. [How to Access Data](05-access-data.md)
-6. [Where to Do Your Work](06-where-to-work.md)
-7. [How to Work Collaboratively in the ADRF](07-collaborate.md)
-8. [How to Export Output from the ADRF](08-export.md)
-9. [Do's and Don'ts for Discussing Data Hosted in the ADRF](09-dos-and-donts.md)
-10. [Adding Additional Packages in R/Python](10-packages.md)
-11. [Redshift Querying Guide](11-querying-guide.md)
-12. [Password Reset for Pass Portal](12-pass_reset_password.md)
-13. [FAQ](13-faq.md)
+6. [How to Work Collaboratively in the ADRF](06-collaborate.md)
+7. [How to Export Output from the ADRF](07-export.md)
+8. [Do's and Don'ts for Discussing Data Hosted in the ADRF](08-dos-and-donts.md)
+9. [FAQ](09-faq.md)
+
+
+<br>
+
+---
+# Support
+
+**Need help?**
+- Email: support@coleridge.us
+- Hours: Monday-Friday, 9 AM - 5 PM ET

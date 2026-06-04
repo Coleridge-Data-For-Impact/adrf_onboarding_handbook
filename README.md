@@ -1,6 +1,6 @@
-# ADRF User Guide
+# ADRF Onboarding Guide
 
-Welcome to the ADRF User Guide! This guide provides essential information for new users of the Administrative Data Research Facility (ADRF), covering account setup, data access, security protocols, and research best practices.  
+The ADRF Onboarding Guide provides new users with the information and instructions needed to successfully access, configure, and begin using Coleridge’s Administrative Data Research Facility (ADRF). Its purpose is to reduce onboarding friction, promote a consistent onboarding experience, and enable users to become productive with minimal support intervention. 
 
 ## Features  
 - Step-by-step onboarding instructions  
