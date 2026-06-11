@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "ADRF User Guide"
+  title: "ADRF User Onboarding Guide"
   author: "Jon Mills, Josh Edelmann, and Corey Sparks"
   date: last-modified
   date-format: "[Last Updated on] DD MMMM, YYYY"
