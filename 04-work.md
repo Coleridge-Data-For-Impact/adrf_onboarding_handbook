@@ -12,6 +12,21 @@ Project workspaces in the ADRF are isolated from each other. Even if a person is
 ## Virtual Desktop
 The **Virtual Desktop Environment** (VDE) is a secure, remote Windows system that allows you to work as if it were your own desktop. This environment is temporary: running programs will stop and unsaved data will be deleted after four hours of inactivity. Always save your files to the appropriate drives and log out by selecting End Session from the top taskbar to preserve your work. The interface is a familiar Windows desktop, with icons and a start menu for accessing programs and tools like PowerShell.
 
+## ADRF Session Security & Log Out Guidelines
+To maintain compliance and protect research data, the ADRF enforces specific session inactivity and lock-out policies. Please be aware of the following requirements:
+- **Session Lock (Auto-Lock)**: To protect your workstation, your session will automatically lock after 15 minutes of inactivity.
+- **Session Termination**: Your active session will be terminated after 60 minutes of inactivity.
+- **Account Deactivation**: Accounts are subject to deactivation after 90 days of inactivity.
+
+### Account Reactivation
+If you have a valid ADRF account; but the account has been deactivated due to inactivity, please reach out to support@coleridge.us to reactivate your account.
+
+> **Post-Reactivation Requirement**: If your account is reactivated after a period of inactivity, you are required to log in within **1 hour** to complete the process and avoid triggering a secondary reactivation request.
+
+
+**Best Practice**: Always manually lock your screen or log out of your session when stepping away from your workspace to ensure these automated controls do not interrupt your work unexpectedly.
+
+
 ## Modifying the Environment
 ### Establishing Personal Folders
 Establishing your own personal folders is one of the simplest, yet most important, steps to take when setting up your environment. As we note in the section on Storing Analytic Results, the two possible places to store your analytic results or files are in either the U: drive or the P: drive.
