@@ -12,6 +12,22 @@ Project workspaces in the ADRF are isolated from each other. Even if a person is
 ## Virtual Desktop
 The **Virtual Desktop Environment** (VDE) is a secure, remote Windows system that allows you to work as if it were your own desktop. This environment is temporary: running programs will stop and unsaved data will be deleted after four hours of inactivity. Always save your files to the appropriate drives and log out by selecting End Session from the top taskbar to preserve your work. The interface is a familiar Windows desktop, with icons and a start menu for accessing programs and tools like PowerShell.
 
+## Establishing a secondary password for your project workspace
+
+As an added security measure, the ADRF uses a secondary password in addition to your primary login credentials. This password provides an extra layer of protection for sensitive data by ensuring that access to the secure research environment remains protected even if another account credential is compromised. The secondary password is managed separately from your primary account and may be required when accessing or reconnecting to the ADRF environment. The secondary password is also required for users accessing data stored in Redshift.
+
+Example: If you see the following screen when logging into your ADRF workspace, it means you will need to enter your secondary password to enter the workspace. 
+![Secondary Password Required](/images/secondary-password-required.png)
+
+### How to set you secondary password
+
+1. Log into the ADRF by clicking on “ADRF Sign In” in the upper right hand corner of Colerdige’s website ([https://coleridge.us/](https://coleridge.us/)).
+2. Click on your profile icon in the bottom left-hand corner and select “Profile.”
+3. Click on the tile for the specific project workspace you would like to update.
+4. Click on “Change Password” and follow the instructions to save your new password.
+
+If you encounter issues or are locked out, please contact the support team via 'Support Tickets' in the PASS sidebar or email support@coleridge.us.
+
 ## ADRF Session Security & Log Out Guidelines
 To maintain compliance and protect research data, the ADRF enforces specific session inactivity and lock-out policies. Please be aware of the following requirements:
 - **Session Lock (Auto-Lock)**: To protect your workstation, your session will automatically lock after 15 minutes of inactivity.
