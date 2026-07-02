@@ -1,4 +1,4 @@
-# 8. Do's and Don'ts for Discussing Data Hosted in the ADRF
+# 9. Do's and Don'ts for Discussing Data Hosted in the ADRF
 
 You **must protect confidential data** by adhering to the fundamental rule: **Never take any exact number out of the ADRF.** This includes sharing numbers via text, screenshot, or image.
 
