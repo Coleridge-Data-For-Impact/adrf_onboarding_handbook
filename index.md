@@ -20,8 +20,9 @@ A detailed guide to help users onboard and get started using Coleridge's **Admin
 5. [How to Access Data](05-access-data.md)
 6. [How to Work Collaboratively in the ADRF](06-collaborate.md)
 7. [How to Export Output from the ADRF](07-export.md)
-8. [Do's and Don'ts for Discussing Data Hosted in the ADRF](08-dos-and-donts.md)
-9. [FAQ](09-faq.md)
+8. [Export Reviewer Onboarding Guidance](08-reviewer-onboarding.md)
+9. [Do's and Don'ts for Discussing Data Hosted in the ADRF](09-dos-and-donts.md)
+10. [FAQ](10-faq.md)
 
 
 <br>
