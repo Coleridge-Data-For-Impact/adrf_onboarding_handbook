@@ -14,7 +14,7 @@ A detailed guide to help users onboard and get started using Coleridge's **Admin
 ## Table of Contents
 
 1. [ADRF Overview](01-adrf-overview.md)
-2. [Logging into the ADRF](02-loggin-in.md)
+2. [Logging into the ADRF](02-logging-in.md)
 3. [Step-by-Step: How to Get into the ADRF for the first time](03-onboarding.md)
 4. [Working in the ADRF](04-work.md)
 5. [How to Access Data](05-access-data.md)
