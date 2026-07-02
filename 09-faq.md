@@ -10,7 +10,20 @@ This is recommended. If you lose access to one form of MFA, you would still be a
 You can use the “Need help signing in?” option on the sign on page (https://adrf.okta.com) which will send a link to your email to reset your password. You may have to verify your identify by answering security questions which you set up when creating your account.
 
 ## How can I reset my ADRF password?
+
 You can reset your ADRF password (the one used for the project workspace) via the Workspace Password Reset tile located within the Coleridge PASS Portal.
+
+### Purpose of the secondary password
+As an added security measure, the ADRF uses a secondary password in addition to your primary login credentials. This password provides an extra layer of protection for sensitive data by ensuring that access to the secure research environment remains protected even if another account credential is compromised. It is managed separately from your Okta (primary) account and is required when accessing or reconnecting to your ADRF workspace and Redshift data.
+
+### How to reset your secondary password:
+1. Log into the ADRF by clicking on “ADRF Sign In” in the upper right hand corner of Colerdige’s website ([https://coleridge.us/](https://coleridge.us/)).
+2. Click on your profile icon in the bottom left-hand corner and select “Profile.”
+3. Click on the tile for the specific project workspace you would like to update.
+4. Click on “Change Password” and follow the instructions to save your new password.
+
+If you encounter issues or are locked out, please contact the support team via 'Support Tickets' in the PASS sidebar or email support@coleridge.us.
+
 
 ## What if I do not remember my security questions or if I get locked out?
 You would have to reach out to support at support@coleridge.us to have your account unlocked and you would have to reset your security questions so that you can recover your account in the future.
