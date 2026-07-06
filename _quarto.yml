@@ -15,8 +15,9 @@ book:
     - 05-access-data.md
     - 06-collaborate.md
     - 07-export.md
-    - 08-dos-and-donts.md
-    - 09-faq.md
+    - 08-reviewer-onboarding.md
+    - 09-dos-and-donts.md
+    - 10-faq.md
 
   sidebar:
     style: docked
