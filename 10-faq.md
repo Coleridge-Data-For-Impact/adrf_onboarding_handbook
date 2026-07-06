@@ -1,4 +1,4 @@
-# 9. Frequently Asked Questions (FAQ)
+# 10. Frequently Asked Questions (FAQ)
 
 ## How do I set up my Multifactor Authentication
 You should be prompted to set up multifactor authentication when you create your account, the options are SMS, voice call, email and the Okta verify application.
